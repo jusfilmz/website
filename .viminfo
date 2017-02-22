@@ -8,6 +8,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:x
 :wq
 
 # Search String History (newest to oldest):
@@ -21,12 +22,22 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/.gitignore
+'0  27  15  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+'1  1  4  ~/.gitignore
 
 # Jumplist (newest first):
+-'  27  15  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+-'  1  0  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+-'  1  4  ~/.gitignore
 -'  1  4  ~/.gitignore
 
 # History of marks within files (newest to oldest):
+
+> ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+	"	27	15
+	^	27	16
+	.	27	15
+	+	27	15
 
 > ~/.gitignore
 	"	1	4

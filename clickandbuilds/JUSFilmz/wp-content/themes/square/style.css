@@ -24,7 +24,7 @@ html {
 
 @font-face {
     font-family: 'MyFontName';
-    src: url('https://github.com/theleagueof/raleway/blob/master/Raleway%20Thin.ttf');
+    src: file('Raleway%20Thin.ttf');
 }
 
 body {
