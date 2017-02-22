@@ -1,3 +1,4 @@
+
 /*
 Theme Name: Square
 Theme URI: https://hashthemes.com/wordpress-theme/square/
@@ -17,14 +18,9 @@ This theme, like WordPress, is licensed under the GPL.
 # Normalize
 --------------------------------------------------------------*/
 html {
-	font-family: 'MyFontName';
+	font-family:sans-serif;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust:     100%;
-}
-
-@font-face {
-    font-family: 'MyFontName';
-    src: file('Raleway%20Thin.ttf');
 }
 
 body {
@@ -1278,7 +1274,7 @@ object {
 }
 
 /*--------------------------------------------------------------
-## Header
+## font
 --------------------------------------------------------------*/
 #sq-masthead{
 	background: rgba(30, 36, 42, 0.4); 
@@ -1286,7 +1282,7 @@ object {
 	left: 0;
 	right: 0;
 	z-index: 999;
-	font-family: "Main";
+	font-family: "Roboto Condensed", sans-serif;
 	height: 82px;
 	transition: all 0.6s ease-in-out;
 	-moz-transition: all 0.6s ease;
@@ -1331,7 +1327,7 @@ object {
 
 .sq-main-title{
 	margin: 0;
-	font-family: 'Main';
+	font-family: 'Roboto Condensed', sans-serif;
 	letter-spacing: 1px;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -1362,7 +1358,7 @@ object {
 }
 
 .sq-site-title{
-	font-family: 'Main';
+	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: bold;
 	margin: 8px 0 5px;
 	letter-spacing: 1px;

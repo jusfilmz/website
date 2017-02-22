@@ -22,22 +22,39 @@
 # Registers:
 
 # File marks:
-'0  27  15  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
-'1  1  4  ~/.gitignore
+'0  20  23  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+'1  27  12  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+'2  1  4  ~/.gitignore
 
 # Jumplist (newest first):
--'  27  15  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+-'  20  23  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
 -'  1  0  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+-'  27  12  ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
+-'  1  4  ~/.gitignore
 -'  1  4  ~/.gitignore
 -'  1  4  ~/.gitignore
 
 # History of marks within files (newest to oldest):
 
 > ~/clickandbuilds/JUSFilmz/wp-content/themes/square/style.css
-	"	27	15
-	^	27	16
-	.	27	15
-	+	27	15
+	"	20	23
+	^	20	24
+	.	20	23
+	+	27	12
+	+	20	23
 
 > ~/.gitignore
 	"	1	4
